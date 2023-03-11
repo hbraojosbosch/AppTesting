@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = JWTTest
+build_property.ProjectDir = /Users/humbertobraojos/Projects/AuthenticationExamples/JWTTest/

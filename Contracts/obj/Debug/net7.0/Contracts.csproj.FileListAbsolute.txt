@@ -1,0 +1,12 @@
+/Users/humbertobraojos/Projects/hbraojosbosch/Contracts/bin/Debug/net7.0/Contracts.deps.json
+/Users/humbertobraojos/Projects/hbraojosbosch/Contracts/bin/Debug/net7.0/Contracts.dll
+/Users/humbertobraojos/Projects/hbraojosbosch/Contracts/bin/Debug/net7.0/Contracts.pdb
+/Users/humbertobraojos/Projects/hbraojosbosch/Contracts/obj/Debug/net7.0/Contracts.csproj.AssemblyReference.cache
+/Users/humbertobraojos/Projects/hbraojosbosch/Contracts/obj/Debug/net7.0/Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/humbertobraojos/Projects/hbraojosbosch/Contracts/obj/Debug/net7.0/Contracts.AssemblyInfoInputs.cache
+/Users/humbertobraojos/Projects/hbraojosbosch/Contracts/obj/Debug/net7.0/Contracts.AssemblyInfo.cs
+/Users/humbertobraojos/Projects/hbraojosbosch/Contracts/obj/Debug/net7.0/Contracts.csproj.CoreCompileInputs.cache
+/Users/humbertobraojos/Projects/hbraojosbosch/Contracts/obj/Debug/net7.0/Contracts.dll
+/Users/humbertobraojos/Projects/hbraojosbosch/Contracts/obj/Debug/net7.0/refint/Contracts.dll
+/Users/humbertobraojos/Projects/hbraojosbosch/Contracts/obj/Debug/net7.0/Contracts.pdb
+/Users/humbertobraojos/Projects/hbraojosbosch/Contracts/obj/Debug/net7.0/ref/Contracts.dll

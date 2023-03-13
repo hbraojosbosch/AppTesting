@@ -1,0 +1,38 @@
+﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{2081A2D6-2DC8-48D0-8371-20CFCB35581A}|JWTTest">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.Workbench ActiveDocument="JWTTest/Controllers/AuthController.cs">
+    <Files>
+      <File FileName="JWTTest/Controllers/AuthController.cs" Line="15" Column="61" />
+      <File FileName="EmptyClass.cs" />
+      <File FileName="Contracts/Contracts.csproj" />
+      <File FileName="JWTTest/Program.cs" />
+      <File FileName="JWTTest/Startup.cs" />
+      <File FileName="JWTTest/Properties/launchSettings.json" />
+      <File FileName="Contracts/UserCredentialsResponse.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AuthenticationExamples" expanded="True">
+            <Node name="01Api" expanded="True">
+              <Node name="AuthenticationTestApi" expanded="True">
+                <Node name="Dependencies" expanded="True" />
+                <Node name="Controllers" expanded="True">
+                  <Node name="AuthController.cs" selected="True" />
+                </Node>
+                <Node name="Properties" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="03Contracts" expanded="True">
+              <Node name="Contracts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.01Api.AuthenticationTestApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

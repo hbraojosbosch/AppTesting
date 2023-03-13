@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "OjfBCQspJtpK4iIp4WznbJqAlBAONzAQRb+I9s9XRDY=",
-  "Source": "JWTTest",
-  "BasePath": "_content/JWTTest",
+  "Hash": "bP58EenvuJyUcvHNezNNBOcvug8dp9sj6ApSJa77O8s=",
+  "Source": "AuthenticationTestApi",
+  "BasePath": "_content/AuthenticationTestApi",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

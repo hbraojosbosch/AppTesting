@@ -1,8 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "Io0ZZQGiB8KDDDi7+xOfmwXx5EuS/FSNTQXlNleMpbOA+f+YO/quD7wDIV7BQfdOcSeTQdURHnA4SMgujZpl5Q==",
+  "dgSpecHash": "ahUErOY0iYRJbk4pWu8ezOtGFEd/rNbHDhf/ySguaCqNps3i9dnfwfBioTG8dCFY1O3gJs4jrzZqAWhIvgTA1g==",
   "success": true,
-  "projectFilePath": "/Users/humbertobraojos/Projects/AuthenticationExamples/JWTTest/JWTTest.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/humbertobraojos/Projects/hbraojosbosch/JWTTest/AuthenticationTestApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/humbertobraojos/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/humbertobraojos/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/humbertobraojos/.nuget/packages/signalrswaggergen/3.5.0/signalrswaggergen.3.5.0.nupkg.sha512",
+    "/Users/humbertobraojos/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/humbertobraojos/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/humbertobraojos/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/humbertobraojos/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "/Users/humbertobraojos/.nuget/packages/unchase.swashbuckle.aspnetcore.extensions/2.6.12/unchase.swashbuckle.aspnetcore.extensions.2.6.12.nupkg.sha512"
+  ],
   "logs": []
 }

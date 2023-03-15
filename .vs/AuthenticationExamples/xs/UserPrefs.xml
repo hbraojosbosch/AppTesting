@@ -34,5 +34,6 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.02Services.Services FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.01Api.AuthenticationTestApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>

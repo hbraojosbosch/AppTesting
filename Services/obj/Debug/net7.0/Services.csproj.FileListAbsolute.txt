@@ -1,0 +1,15 @@
+/Users/humbertobraojos/Projects/hbraojosbosch/Services/bin/Debug/net7.0/Services.deps.json
+/Users/humbertobraojos/Projects/hbraojosbosch/Services/bin/Debug/net7.0/Services.dll
+/Users/humbertobraojos/Projects/hbraojosbosch/Services/bin/Debug/net7.0/Services.pdb
+/Users/humbertobraojos/Projects/hbraojosbosch/Services/bin/Debug/net7.0/Contracts.dll
+/Users/humbertobraojos/Projects/hbraojosbosch/Services/bin/Debug/net7.0/Contracts.pdb
+/Users/humbertobraojos/Projects/hbraojosbosch/Services/obj/Debug/net7.0/Services.csproj.AssemblyReference.cache
+/Users/humbertobraojos/Projects/hbraojosbosch/Services/obj/Debug/net7.0/Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/humbertobraojos/Projects/hbraojosbosch/Services/obj/Debug/net7.0/Services.AssemblyInfoInputs.cache
+/Users/humbertobraojos/Projects/hbraojosbosch/Services/obj/Debug/net7.0/Services.AssemblyInfo.cs
+/Users/humbertobraojos/Projects/hbraojosbosch/Services/obj/Debug/net7.0/Services.csproj.CoreCompileInputs.cache
+/Users/humbertobraojos/Projects/hbraojosbosch/Services/obj/Debug/net7.0/Services.csproj.CopyComplete
+/Users/humbertobraojos/Projects/hbraojosbosch/Services/obj/Debug/net7.0/Services.dll
+/Users/humbertobraojos/Projects/hbraojosbosch/Services/obj/Debug/net7.0/refint/Services.dll
+/Users/humbertobraojos/Projects/hbraojosbosch/Services/obj/Debug/net7.0/Services.pdb
+/Users/humbertobraojos/Projects/hbraojosbosch/Services/obj/Debug/net7.0/ref/Services.dll

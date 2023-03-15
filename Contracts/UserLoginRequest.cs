@@ -1,7 +1,7 @@
 ﻿using System;
 namespace Contracts
 {
-	public class UserCredentialsRequest
+	public class UserLoginRequest
     {
 		public string UserName { get; set; }
 

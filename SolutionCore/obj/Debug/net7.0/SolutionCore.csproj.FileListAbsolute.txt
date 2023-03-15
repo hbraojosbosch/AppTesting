@@ -1,0 +1,12 @@
+/Users/humbertobraojos/Projects/hbraojosbosch/SolutionCore/bin/Debug/net7.0/SolutionCore.deps.json
+/Users/humbertobraojos/Projects/hbraojosbosch/SolutionCore/bin/Debug/net7.0/SolutionCore.dll
+/Users/humbertobraojos/Projects/hbraojosbosch/SolutionCore/bin/Debug/net7.0/SolutionCore.pdb
+/Users/humbertobraojos/Projects/hbraojosbosch/SolutionCore/obj/Debug/net7.0/SolutionCore.csproj.AssemblyReference.cache
+/Users/humbertobraojos/Projects/hbraojosbosch/SolutionCore/obj/Debug/net7.0/SolutionCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/humbertobraojos/Projects/hbraojosbosch/SolutionCore/obj/Debug/net7.0/SolutionCore.AssemblyInfoInputs.cache
+/Users/humbertobraojos/Projects/hbraojosbosch/SolutionCore/obj/Debug/net7.0/SolutionCore.AssemblyInfo.cs
+/Users/humbertobraojos/Projects/hbraojosbosch/SolutionCore/obj/Debug/net7.0/SolutionCore.csproj.CoreCompileInputs.cache
+/Users/humbertobraojos/Projects/hbraojosbosch/SolutionCore/obj/Debug/net7.0/SolutionCore.dll
+/Users/humbertobraojos/Projects/hbraojosbosch/SolutionCore/obj/Debug/net7.0/refint/SolutionCore.dll
+/Users/humbertobraojos/Projects/hbraojosbosch/SolutionCore/obj/Debug/net7.0/SolutionCore.pdb
+/Users/humbertobraojos/Projects/hbraojosbosch/SolutionCore/obj/Debug/net7.0/ref/SolutionCore.dll

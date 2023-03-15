@@ -10,12 +10,18 @@ namespace AuthenticationExamples.JWTTest.Controllers
     [Route("[controller]")]
     public class AuthenticationController : ControllerBase
 	{
+        protected readonly IAuthenticationService _authenticationService;
+
+        public AuthenticationController(IAuthenticationService authenticationService)
+        {
+            _authenticationService = authenticationService;
+        }
 
         [HttpPost("GetToken")]
-        [ProducesResponseType(typeof(UserCredentialsResponse), StatusCodes.Status200OK)]
-        public IActionResult GetToken([FromBody] UserCredentialsRequest userCredentils)
+        [ProducesResponseType(typeof(UserLoginResponse), StatusCodes.Status200OK)]
+        public IActionResult GetToken([FromBody] UserLoginRequest userCredentils)
         {
-            return null;
+            return Ok(_authenticationService.Authenticate(userCredentils));
         }
 	}
 }

@@ -1,9 +1,10 @@
 ﻿using System;
 namespace Contracts
 {
-	public class UserCredentialsResponse
+	[Serializable]
+	public class UserLoginResponse
 	{
-
+		public string Token { get; set; }
 	}
 }
 

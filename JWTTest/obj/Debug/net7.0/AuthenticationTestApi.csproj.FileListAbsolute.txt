@@ -34,3 +34,15 @@
 /Users/humbertobraojos/Projects/hbraojosbosch/JWTTest/obj/Debug/net7.0/AuthenticationTestApi.pdb
 /Users/humbertobraojos/Projects/hbraojosbosch/JWTTest/obj/Debug/net7.0/AuthenticationTestApi.genruntimeconfig.cache
 /Users/humbertobraojos/Projects/hbraojosbosch/JWTTest/obj/Debug/net7.0/ref/AuthenticationTestApi.dll
+/Users/humbertobraojos/Projects/hbraojosbosch/JWTTest/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/humbertobraojos/Projects/hbraojosbosch/JWTTest/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/humbertobraojos/Projects/hbraojosbosch/JWTTest/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/humbertobraojos/Projects/hbraojosbosch/JWTTest/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/humbertobraojos/Projects/hbraojosbosch/JWTTest/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/humbertobraojos/Projects/hbraojosbosch/JWTTest/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/humbertobraojos/Projects/hbraojosbosch/JWTTest/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/humbertobraojos/Projects/hbraojosbosch/JWTTest/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/humbertobraojos/Projects/hbraojosbosch/JWTTest/bin/Debug/net7.0/SolutionCore.dll
+/Users/humbertobraojos/Projects/hbraojosbosch/JWTTest/bin/Debug/net7.0/SolutionCore.pdb
+/Users/humbertobraojos/Projects/hbraojosbosch/JWTTest/bin/Debug/net7.0/Services.dll
+/Users/humbertobraojos/Projects/hbraojosbosch/JWTTest/bin/Debug/net7.0/Services.pdb
